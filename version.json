@@ -1,0 +1,6 @@
+{
+    "version":  "1.4.2",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.2-Setup.exe",
+    "sha256":  "8e03da709585c95677dac9ce18435219d254579d357379f225224fcddf634fe1",
+    "notes":  "1.4.2: site tarayici duzeltmesi ve hata raporlama, uzun yol (MAX_PATH) destegi, yerel altyazi varsayilani, guncelleme akisi Ed25519 imzasi ve guncellemelerin genel dagitim deposuna tasinmasi."
+}
