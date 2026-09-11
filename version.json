@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.12",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.12-Setup.exe",
-    "sha256":  "9c42ef650d1f2061cc4d62040add2bb6ea11453e0310878ea80d966aa66734a5",
-    "notes":  "1.4.12: kabuk (Explorer) cagrilari hedeflerini olay gunlugune yaziyor; beklenmeyen bir Windows \u0027bulunamiyor\u0027 penceresi olusursa hangi yolun ve hangi cagiranin yaptigi kayitli olur."
+    "version":  "1.4.13",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.13-Setup.exe",
+    "sha256":  "0b2bb95d4d74d56138aedb24a5facdb3398a742dd4493837596bf4ab1f5ccaa2",
+    "notes":  ""
 }
