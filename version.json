@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.8",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.8-Setup.exe",
-    "sha256":  "bd190081a7e37de76e870485bf4e9c8da15787dc564a963cf421a70f7f0917db",
-    "notes":  "1.4.8: gorunur her hata artik kalici bir kod tasiyor (SSD-MED-006 gibi) ve hata kodu masaustu mesaj listesinde, is hata metninde, eklenti durum satirinda ve tani raporunda goruluyor. Onizleme oynaticilari (dongude, sessiz, kullanici baslatmadan) artik icerik olarak sunulmuyor; akis sayfalari kaynak listesini doldurmuyor."
+    "version":  "1.4.9",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.9-Setup.exe",
+    "sha256":  "dc79ffdc4184d114d4176eecd6da7ca7284b97dcecb0d1f518b72bd23ceeeef4",
+    "notes":  "1.4.9: her uygulama/eklenti acilisi artik tek bir oturum gunlugune yaziliyor (logs/events-*.jsonl + ssdownload-*.log + is basina zaman cizelgesi). Hangi site, hangi asama, hangi hata kodu ve kimin sorunu (uygulama/site/DRM/gozlem) kayitli; engellenen, DRM\u0027li ve gozlemlenemeyen durumlar da acikca yaziliyor. Araclar menusunde Olay gunlugu ve Teshis paketi, CLI\u0027da --diagnose ozeti var. Eklenti kendi olaylarini kopru uzerinden ayni gunluge aktariyor."
 }
