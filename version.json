@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.9",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.9-Setup.exe",
-    "sha256":  "dc79ffdc4184d114d4176eecd6da7ca7284b97dcecb0d1f518b72bd23ceeeef4",
-    "notes":  "1.4.9: her uygulama/eklenti acilisi artik tek bir oturum gunlugune yaziliyor (logs/events-*.jsonl + ssdownload-*.log + is basina zaman cizelgesi). Hangi site, hangi asama, hangi hata kodu ve kimin sorunu (uygulama/site/DRM/gozlem) kayitli; engellenen, DRM\u0027li ve gozlemlenemeyen durumlar da acikca yaziliyor. Araclar menusunde Olay gunlugu ve Teshis paketi, CLI\u0027da --diagnose ozeti var. Eklenti kendi olaylarini kopru uzerinden ayni gunluge aktariyor."
+    "version":  "1.4.10",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.10-Setup.exe",
+    "sha256":  "5a66608b8204fe2c8c177e0638e55d8c02e3b9f200894e1deb1ab82ae455aaaa",
+    "notes":  "1.4.10: Teshis paketi artik hem okunabilir dosyalar halinde (SSDownload-teshis-\u003csurum\u003e-\u003ctarih\u003e klasoru) hem de tek ZIP olarak uretiliyor; ad artik urunu, amaci ve surumu tasiyor. Ayni dakikadaki ikinci paket -2 ekiyle korunuyor."
 }
