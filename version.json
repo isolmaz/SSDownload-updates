@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.7",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.7-Setup.exe",
-    "sha256":  "a47f78ef1f059b78580e36b815847893734163c4bafe29ba3ebbb7bcc0e7ba5a",
-    "notes":  "1.4.7: eklenti yeniden yuklendiginde acik kalan sayfalardaki eski content script artik hata uretmiyor (Extension context invalidated)."
+    "version":  "1.4.8",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.8-Setup.exe",
+    "sha256":  "bd190081a7e37de76e870485bf4e9c8da15787dc564a963cf421a70f7f0917db",
+    "notes":  "1.4.8: gorunur her hata artik kalici bir kod tasiyor (SSD-MED-006 gibi) ve hata kodu masaustu mesaj listesinde, is hata metninde, eklenti durum satirinda ve tani raporunda goruluyor. Onizleme oynaticilari (dongude, sessiz, kullanici baslatmadan) artik icerik olarak sunulmuyor; akis sayfalari kaynak listesini doldurmuyor."
 }
