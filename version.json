@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.6",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.6-Setup.exe",
-    "sha256":  "386d13af4f2670821babb1d532395f898c9b89c7ea1e2af5375736cb15db8000",
-    "notes":  "1.4.6: kaynak listesi artik yalnizca medya - video sayfalarinda txt/dosya adaylari listelenmiyor ve ayni sayfaya isaret eden yinelenen girdiler tek girde toplaniyor."
+    "version":  "1.4.7",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.7-Setup.exe",
+    "sha256":  "a47f78ef1f059b78580e36b815847893734163c4bafe29ba3ebbb7bcc0e7ba5a",
+    "notes":  "1.4.7: eklenti yeniden yuklendiginde acik kalan sayfalardaki eski content script artik hata uretmiyor (Extension context invalidated)."
 }
