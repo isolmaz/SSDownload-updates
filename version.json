@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.3",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.3-Setup.exe",
-    "sha256":  "de266fbdb86fe6c9b096154f47d0324f7d48bdc2a8053a3131ed49badf186ad5",
-    "notes":  "1.4.3: Chrome eklentisi kurulumu duzeltildi - Chrome 137+ kurumsal yonetilmeyen cihazlarda kendi barindirdigimiz politika kurulumunu engelledigi icin uygulama artik bu politikayi yazmiyor, kalan engelleyici kaydi yonetici onayiyla temizliyor ve elle yukleme yolunu gosteriyor; CRX artik update.xml ile ayni kaynaktan sunuluyor. Ayrica 1.4.2\u0027deki site tarayici, uzun yol, altyazi ve guncelleme zinciri duzeltmeleri."
+    "version":  "1.4.4",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.4-Setup.exe",
+    "sha256":  "5e9dac262e7dc5636e3a3f2bedca56b4d6e44d3649ea51396149ce8dcd05c24e",
+    "notes":  "1.4.4: MSE/blob oynaticilari (YouTube gibi) artik sayfa adresi uzerinden indirilebiliyor - \u0027medya istegi yakalanamadi\u0027 hatasi yerine indirme sayfa adresi uygulamada cozumlenerek yapiliyor; ayrica site tarama testindeki kararsizlik giderildi."
 }
