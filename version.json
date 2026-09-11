@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.5",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.5-Setup.exe",
-    "sha256":  "c3df5b5325595066e77de7061dba73098ab5d7301b446ce251657ffbadbf9880",
-    "notes":  "1.4.5: liste/acilis sayfalari icin net mesaj - YouTube ana sayfa onizlemesinden indirme denendiginde artik \u0027videonun kendi sayfasini acip oradan baslatin\u0027 deniyor; video sayfasindan indirme 1.4.4 ile zaten calisiyor."
+    "version":  "1.4.6",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.6-Setup.exe",
+    "sha256":  "386d13af4f2670821babb1d532395f898c9b89c7ea1e2af5375736cb15db8000",
+    "notes":  "1.4.6: kaynak listesi artik yalnizca medya - video sayfalarinda txt/dosya adaylari listelenmiyor ve ayni sayfaya isaret eden yinelenen girdiler tek girde toplaniyor."
 }
