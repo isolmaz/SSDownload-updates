@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.4",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.4-Setup.exe",
-    "sha256":  "5e9dac262e7dc5636e3a3f2bedca56b4d6e44d3649ea51396149ce8dcd05c24e",
-    "notes":  "1.4.4: MSE/blob oynaticilari (YouTube gibi) artik sayfa adresi uzerinden indirilebiliyor - \u0027medya istegi yakalanamadi\u0027 hatasi yerine indirme sayfa adresi uygulamada cozumlenerek yapiliyor; ayrica site tarama testindeki kararsizlik giderildi."
+    "version":  "1.4.5",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.5-Setup.exe",
+    "sha256":  "c3df5b5325595066e77de7061dba73098ab5d7301b446ce251657ffbadbf9880",
+    "notes":  "1.4.5: liste/acilis sayfalari icin net mesaj - YouTube ana sayfa onizlemesinden indirme denendiginde artik \u0027videonun kendi sayfasini acip oradan baslatin\u0027 deniyor; video sayfasindan indirme 1.4.4 ile zaten calisiyor."
 }
