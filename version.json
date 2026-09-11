@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.11",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.11-Setup.exe",
-    "sha256":  "8e0e19287124e1db28cfdf998e38c9ccd52ef6c2d50d566fce096135fac6a2bf",
-    "notes":  "1.4.11: is zaman cizelgeleri artik gercekten sinirlanip donuyor; gunluk duzeyi ve site adi ayari Ayarlar\u0027dan degistirilince aninda uygulaniyor; kabuk (Explorer) cagrilari gecersiz/verbatim yollarda sessiz Windows hatasi yerine uygulama icinde bildiriliyor."
+    "version":  "1.4.12",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.12-Setup.exe",
+    "sha256":  "9c42ef650d1f2061cc4d62040add2bb6ea11453e0310878ea80d966aa66734a5",
+    "notes":  "1.4.12: kabuk (Explorer) cagrilari hedeflerini olay gunlugune yaziyor; beklenmeyen bir Windows \u0027bulunamiyor\u0027 penceresi olusursa hangi yolun ve hangi cagiranin yaptigi kayitli olur."
 }
