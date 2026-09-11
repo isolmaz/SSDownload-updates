@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='hgndggnlfpnflkmnbddmcnfniamckham'>
-    <updatecheck codebase='https://raw.githubusercontent.com/isolmaz/SSDownload-updates/main/SSDownload-1.4.6.crx' version='1.4.6' sha256='0d9cb582d4b47c2d93a4eed96292ce1e0d6d62671ff28786745e3359bb9533dc' />
+    <updatecheck codebase='https://raw.githubusercontent.com/isolmaz/SSDownload-updates/main/SSDownload-1.4.7.crx' version='1.4.7' sha256='efcb91c4fa1fa7434a535720ed6722c3e33fd36ccabb4a40db7bf85088e34861' />
   </app>
 </gupdate>
