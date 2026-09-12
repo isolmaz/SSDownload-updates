@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.17",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.17-Setup.exe",
-    "sha256":  "c2ff5bed9169eb31911a16bde1a0787b2be2f4efa58fd8206f8b04e1c91c7aff",
-    "notes":  "Arayuz yenilemesi: menuler, koyu mod, ayarlar sekmeleri, sihirbaz ve cikis hatasi duzeltmesi."
+    "version":  "1.4.18",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.18-Setup.exe",
+    "sha256":  "0db59e42c671c8316a6ac23feb839333867ad087dc94a06d3fe583cc139d41bb",
+    "notes":  "Koyu menu cubugu: uzerine gelince beyaz kutu ve font degisimi, odak degisiminde acik tema; guncelleme dialoglari ana pencerede ortalanir."
 }
