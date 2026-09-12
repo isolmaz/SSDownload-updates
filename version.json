@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.18",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/latest/download/SSDownload-1.4.18-Setup.exe",
-    "sha256":  "0db59e42c671c8316a6ac23feb839333867ad087dc94a06d3fe583cc139d41bb",
-    "notes":  "Koyu menu cubugu: uzerine gelince beyaz kutu ve font degisimi, odak degisiminde acik tema; guncelleme dialoglari ana pencerede ortalanir."
+    "version":  "1.4.19",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.4.19/SSDownload-1.4.19-Setup.exe",
+    "sha256":  "103718cac536fbe30e82751334799af6d857df7bfaf70719abd5446ff247954d",
+    "notes":  "Update staging: the staging feed and the Setup URL are canonicalized from their own parse, the unsigned staging fetch is plain HTTP without redirects and without an environment proxy, and one in-flight guard keeps a startup check and a manual check from staging two Setups at once. Diagnostics: the newest job timelines are selected by full-resolution modification time. Release integrity: every checksum row is validated against the bytes it names, the published list is rebuilt from the published assets, the feed signature ships beside the main-branch copy, and the update manifest identity is cross-checked against the extension key, version and CRX digest. This release is not full-product acceptance."
 }
