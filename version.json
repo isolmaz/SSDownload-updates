@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.19",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.4.19/SSDownload-1.4.19-Setup.exe",
-    "sha256":  "103718cac536fbe30e82751334799af6d857df7bfaf70719abd5446ff247954d",
-    "notes":  "Update staging: the staging feed and the Setup URL are canonicalized from their own parse, the unsigned staging fetch is plain HTTP without redirects and without an environment proxy, and one in-flight guard keeps a startup check and a manual check from staging two Setups at once. Diagnostics: the newest job timelines are selected by full-resolution modification time. Release integrity: every checksum row is validated against the bytes it names, the published list is rebuilt from the published assets, the feed signature ships beside the main-branch copy, and the update manifest identity is cross-checked against the extension key, version and CRX digest. This release is not full-product acceptance."
+    "version":  "1.4.20",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.4.20/SSDownload-1.4.20-Setup.exe",
+    "sha256":  "fe9e432567861aaab9efc365adc52c2a4ae3c9c8a1a66ccb0942b1fa688718e0",
+    "notes":  "Chrome araç çubuğu düğmesi tek tıklamayla algılamayı açar/kapatır ve medya akışları artık tarayıcı açılır penceresi yerine yerel seçiciye gelir; seçici Ad alanı, kalite listesi ve Gelişmiş seçeneklerle onaylanır ve site oturumu izni yalnızca onay verilen kapsamda kullanılır. Yerel seçici analiz listesi dolmadan İndir\u0027i etkinleştirmez ve hatırlanan kalite/yükseklik varsayılanını korur. Denetim düzeltmeleri: tarayıcıdan aktarılan altyazı dili mp4/mov çıktısında korunur, uyarı pencerelerindeki GDI nesne sızıntısı ile WM_QUIT sonrası kapanmama giderilir, Gelişmiş seçici başlıkları ve harici altyazı etiketleri tam görünür, kullanılmayan pano izni kaldırılır ve kilitli bağımlılık grafiğinin denetimi temizdir. Bu sürüm tam ürün kabulü değildir. Algılama kapalıyken bağlam menüsünden yapılan işlem sayfada geçici, görünür bir uyarıyla reddedilir; algılama yeniden açıldığında indirme düğmeleri normal etiketleriyle döner.\n"
 }
