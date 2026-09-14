@@ -9,7 +9,7 @@ Contents:
 - `update.xml` - Chrome GUpdate manifest for the self-hosted extension (fixed ID `hgndggnlfpnflkmnbddmcnfniamckham`).
 - Release assets per version: `SSDownload-<version>-Setup.exe`, `SSDownload-<version>-win64.zip`, `SSDownload-<version>.crx`, `SHA256SUMS`, both update feeds, the feed signature and `update.xml.sha256sums` (the extension checksum row).
 
-The newest published release is **v1.4.21** (2026-09-14). The application reads
+The newest published release is **v1.4.23** (2026-09-14). The application reads
 `https://github.com/isolmaz/SSDownload-updates/releases/latest/download/version.json`;
 the extension policy and the packaged manifest point at
 `https://raw.githubusercontent.com/isolmaz/SSDownload-updates/main/update.xml`.
