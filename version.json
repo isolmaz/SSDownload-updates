@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.22",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.4.22/SSDownload-1.4.22-Setup.exe",
-    "sha256":  "d542616ef10fd2bc6d45adc091cbae3f82313525dfed2b99e2bd0ab16ee4db45",
-    "notes":  "Tarayıcı medya hazırlığı ve yayın altyazısı seçimi düzeltildi."
+    "version":  "1.4.23",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.4.23/SSDownload-1.4.23-Setup.exe",
+    "sha256":  "8201a77217bf0e3b1195b18a01544f5509f8a787206b4878d48210f4631dd30f",
+    "notes":  "Video sitelerindeki oynatıcı sayfaları ve gömülü oynatıcı adresleri artık kaynak olarak listelenir; indirme düğmesi sitelerin tıklama müdahalesinden korunur. İkinci başlatma çalışan örneğe devreder ve penceresini öne getirir."
 }
