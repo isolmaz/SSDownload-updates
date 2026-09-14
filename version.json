@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.20",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.4.20/SSDownload-1.4.20-Setup.exe",
-    "sha256":  "fe9e432567861aaab9efc365adc52c2a4ae3c9c8a1a66ccb0942b1fa688718e0",
-    "notes":  "Chrome araç çubuğu düğmesi tek tıklamayla algılamayı açar/kapatır ve medya akışları artık tarayıcı açılır penceresi yerine yerel seçiciye gelir; seçici Ad alanı, kalite listesi ve Gelişmiş seçeneklerle onaylanır ve site oturumu izni yalnızca onay verilen kapsamda kullanılır. Yerel seçici analiz listesi dolmadan İndir\u0027i etkinleştirmez ve hatırlanan kalite/yükseklik varsayılanını korur. Denetim düzeltmeleri: tarayıcıdan aktarılan altyazı dili mp4/mov çıktısında korunur, uyarı pencerelerindeki GDI nesne sızıntısı ile WM_QUIT sonrası kapanmama giderilir, Gelişmiş seçici başlıkları ve harici altyazı etiketleri tam görünür, kullanılmayan pano izni kaldırılır ve kilitli bağımlılık grafiğinin denetimi temizdir. Bu sürüm tam ürün kabulü değildir. Algılama kapalıyken bağlam menüsünden yapılan işlem sayfada geçici, görünür bir uyarıyla reddedilir; algılama yeniden açıldığında indirme düğmeleri normal etiketleriyle döner.\n"
+    "version":  "1.4.21",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.4.21/SSDownload-1.4.21-Setup.exe",
+    "sha256":  "0f46a79aa8decd0500cc88c56ae43b78305a3ae7a189ad62626690b1193c953c",
+    "notes":  "Tarayıcıdaki medya düğmesi artık blob adresi yerine oynatıcıya ait doğrulanmış kaynağı kullanır. Düğme, uygulamanın mavi ve turkuaz simgesiyle uyumludur. Yerel medya penceresi öne gelir; indirme sırasında ilerleme, duraklatma/devam ve iptal kontrolleri sunar. Tamamlandığında pencere öne gelerek dosyayı açma ve klasörde gösterme seçeneklerini sunar."
 }
