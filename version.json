@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.21",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.4.21/SSDownload-1.4.21-Setup.exe",
-    "sha256":  "0f46a79aa8decd0500cc88c56ae43b78305a3ae7a189ad62626690b1193c953c",
-    "notes":  "Tarayıcıdaki medya düğmesi artık blob adresi yerine oynatıcıya ait doğrulanmış kaynağı kullanır. Düğme, uygulamanın mavi ve turkuaz simgesiyle uyumludur. Yerel medya penceresi öne gelir; indirme sırasında ilerleme, duraklatma/devam ve iptal kontrolleri sunar. Tamamlandığında pencere öne gelerek dosyayı açma ve klasörde gösterme seçeneklerini sunar."
+    "version":  "1.4.22",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.4.22/SSDownload-1.4.22-Setup.exe",
+    "sha256":  "d542616ef10fd2bc6d45adc091cbae3f82313525dfed2b99e2bd0ab16ee4db45",
+    "notes":  "Tarayıcı medya hazırlığı ve yayın altyazısı seçimi düzeltildi."
 }
