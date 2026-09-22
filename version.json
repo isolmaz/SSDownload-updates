@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.24",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.4.24/SSDownload-1.4.24-Setup.exe",
-    "sha256":  "3e1df6cd633e1a48d0290788a710e19e1c51a7c505cbe61456fb9cef6c94a034",
-    "notes":  "Medya desteği artık hiçbir menü adımı istemez: bileşenler ilk açılışta kendiliğinden indirilir ve ilerleme, sağ alttaki bildirim ile durum çubuğunda görünür. Bir indirme başarısız olursa açılış engellenmez; sonraki açılış yeniden dener ve Araçlar \u003e \"Medya desteğini kur...\" aynı işi hemen başlatır.\n\nİlk açılışta Basit/Gelişmiş seçtiren bir kurulum sihirbazı çıkar. Basit yalnız indirme listesini, ekle/seçici adımlarını ve sade Ayarlar\u0027ı bırakır; seçim kalıcıdır ve Ayarlar\u0027dan değiştirilebilir.\n\nGüncelleme kabul edildiğinde indirme ve doğrulama ilerlemesi durum çubuğunda akar, sonuç ayrı bir pencere ile bildirilir. Başarısız bir iş veya çözümlemede \"Hata bildir\" düğmesi sayfa adresini, sayfa içeriğini, olay günlüğünü ve tanılamayı içeren yerel bir rapor üretip klasörünü açar; hiçbir şey yüklenmez.\n"
+    "version":  "1.4.25",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.4.25/SSDownload-1.4.25-Setup.exe",
+    "sha256":  "4c1170532df590a8b28e9773a4e36de07b5c5e0ceb2ae7e93a8ff43194ba69e6",
+    "notes":  "Arayüz dili seçimi eklendi: Türkçe varsayılan, İngilizce tek anahtarla (Ayarlar \u003e Arayüz dili). Eksik parça güvenliği: sağlıklı yeniden deneme döngüsü zamanlayıcı tarafından artık durdurulmuyor, yeniden başlatma sonrası parça durumu sıfırlanıyor ve asla delik yayımlanmıyor; kalıcı parça hataları SSD-TRF-013 koduyla dakikalar içinde bildiriliyor. Pano, sürükle-bırak, kısmi ekleme ve yerel yedekleme düzeltmeleri."
 }
