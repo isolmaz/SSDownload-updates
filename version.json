@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.0",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.5.0/SSDownload-1.5.0-Setup.exe",
-    "sha256":  "96cf5ff3d2eec13c6ddd3896dd5ee7d74e4301ba7b5dc22edf9763c64a4f84fd",
-    "notes":  "Proxy (Windows/HTTP/SOCKS5), site logins, per-job and scheduled speed limits, batch patterns and list import/export, duplicate prompt, keep-awake, taskbar progress, completion sound, browser download takeover, Edge support, Last-Modified resume, sparse range files, language-independent error handling."
+    "version":  "1.5.1",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.5.1/SSDownload-1.5.1-Setup.exe",
+    "sha256":  "1e5a148531e0727e6d6d6d6a9f700f5bfee8a099f2d0661b6fcb6acad3bce90b",
+    "notes":  "Fixes media analysis failing with \u0027Tunnel connection failed: 503\u0027 when the same host is busy, opens only the download picker from the browser (no main window), and refreshes the media tools automatically every week for better site support."
 }
