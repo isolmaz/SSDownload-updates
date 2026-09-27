@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.1",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.5.1/SSDownload-1.5.1-Setup.exe",
-    "sha256":  "1e5a148531e0727e6d6d6d6a9f700f5bfee8a099f2d0661b6fcb6acad3bce90b",
-    "notes":  "Fixes media analysis failing with \u0027Tunnel connection failed: 503\u0027 when the same host is busy, opens only the download picker from the browser (no main window), and refreshes the media tools automatically every week for better site support."
+    "version":  "1.6.0",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.6.0/SSDownload-1.6.0-Setup.exe",
+    "sha256":  "149cbcfd6949210dff1378b140847ed3f46fc25b0d37d768479ce7fe81022bb4",
+    "notes":  "Mini indirme paneli ve bitince Aç / Klasörde göster kartı; zengin tepsi menüsü, tepsi simgesinde ilerleme ve sessiz mod; başlıkta sürüm ve canlı özet. Sürükleyerek sıralama, Hemen başlat, adres kopyalama, yeniden adlandırma, başarısızları yeniden deneme ve sayılı filtreler. Seçicide site başına hatırlanan kalite, MP3 düğmesi, küçük resim ve playlist öğe seçimi. Ctrl+Shift+D genel kısayolu, disk alanı ve tarifeli bağlantı beklemesi, geçmiş temizliği ve ilk açılış turu. Eklentide açılır pencere, site başına düğme gizleme ve tamamlanma rozeti."
 }
