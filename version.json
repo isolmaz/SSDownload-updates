@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.25",
-    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.4.25/SSDownload-1.4.25-Setup.exe",
-    "sha256":  "4c1170532df590a8b28e9773a4e36de07b5c5e0ceb2ae7e93a8ff43194ba69e6",
-    "notes":  "Arayüz dili seçimi eklendi: Türkçe varsayılan, İngilizce tek anahtarla (Ayarlar \u003e Arayüz dili). Eksik parça güvenliği: sağlıklı yeniden deneme döngüsü zamanlayıcı tarafından artık durdurulmuyor, yeniden başlatma sonrası parça durumu sıfırlanıyor ve asla delik yayımlanmıyor; kalıcı parça hataları SSD-TRF-013 koduyla dakikalar içinde bildiriliyor. Pano, sürükle-bırak, kısmi ekleme ve yerel yedekleme düzeltmeleri."
+    "version":  "1.5.0",
+    "url":  "https://github.com/isolmaz/SSDownload-updates/releases/download/v1.5.0/SSDownload-1.5.0-Setup.exe",
+    "sha256":  "96cf5ff3d2eec13c6ddd3896dd5ee7d74e4301ba7b5dc22edf9763c64a4f84fd",
+    "notes":  "Proxy (Windows/HTTP/SOCKS5), site logins, per-job and scheduled speed limits, batch patterns and list import/export, duplicate prompt, keep-awake, taskbar progress, completion sound, browser download takeover, Edge support, Last-Modified resume, sparse range files, language-independent error handling."
 }
